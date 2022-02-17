@@ -1,0 +1,12 @@
+.provisioning_class {
+  background-color: #e5e5e5;
+  padding: 5px;
+}
+
+#food_button_plus {
+  display: none;
+}
+
+.food_button_extension {
+  display: none;
+}
